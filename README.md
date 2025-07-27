@@ -41,7 +41,6 @@ telegram-shorts-bot/
 
 ### ✅ 1. Clone and Install
 
-```bash
 git clone https://github.com/YOUR_USERNAME/telegram-shorts-bot.git
 cd telegram-shorts-bot
 pip install -r requirements.txt
