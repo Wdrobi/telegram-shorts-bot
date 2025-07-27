@@ -34,9 +34,6 @@ telegram-shorts-bot/
 │ ├── outro.mp4 # Outro clip
 │ └── bg_music.mp3 # Optional background music
 
-yaml
-Copy
-Edit
 
 ---
 
@@ -48,12 +45,10 @@ Edit
 git clone https://github.com/YOUR_USERNAME/telegram-shorts-bot.git
 cd telegram-shorts-bot
 pip install -r requirements.txt
-✅ 2. Configure .env
+
+### ✅ 2. Configure .env
 Create a .env file:
 
-ini
-Copy
-Edit
 TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 OPENAI_API_KEY=your_openai_api_key
 Or set them as environment variables (e.g., on PythonAnywhere).
