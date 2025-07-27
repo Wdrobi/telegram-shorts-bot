@@ -41,7 +41,7 @@ telegram-shorts-bot/
 
 ### ✅ 1. Clone and Install
 
-git clone https://github.com/YOUR_USERNAME/telegram-shorts-bot.git
+git clone https://github.com/Wdrobi/telegram-shorts-bot.git
 cd telegram-shorts-bot
 pip install -r requirements.txt
 
@@ -52,7 +52,7 @@ TELEGRAM_BOT_TOKEN=your_telegram_bot_token
 OPENAI_API_KEY=your_openai_api_key
 Or set them as environment variables (e.g., on PythonAnywhere).
 
-💡 How It Works
+###💡 How It Works
 User sends a YouTube link or uploads a video on Telegram.
 
 The bot:
@@ -67,7 +67,7 @@ Generates SEO metadata
 
 The final YouTube Short and metadata are sent back to the user.
 
-☁️ Deploying on PythonAnywhere
+###☁️ Deploying on PythonAnywhere
 Upload the code
 
 Install dependencies
@@ -76,7 +76,7 @@ Use Scheduled Task to run python3 main.py every 10 minutes
 
 Or upgrade to a paid plan for a persistent background process
 
-🛡️ Legal & Usage Disclaimer
+###🛡️ Legal & Usage Disclaimer
 This bot is for educational and personal use. Always use content that:
 
 You own
@@ -87,9 +87,9 @@ Falls under Creative Commons or public domain
 
 You are responsible for copyright compliance if republishing AI-edited content.
 
-📸 Demo (Optional)
+###📸 Demo (Optional)
 Upload a screen recording/GIF here if available.
 
-📩 Contact
+###📩 Contact
 Created by Md.Robiul Islam
 Open for collaboration or contributions.
