@@ -1,0 +1,10 @@
+python-telegram-bot==20.3
+moviepy
+yt-dlp
+openai
+librosa
+numpy
+scenedetect
+whisper
+gTTS
+python-dotenv
